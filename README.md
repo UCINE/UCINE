@@ -1,2 +1,33 @@
 ## About Me
-![e](https://github.com/UCINE/UCINE/assets/62403196/da85e83f-8b3d-416d-8acd-a60814cce4de)
+```js
+from GitHub import ReadMe
+
+class UCINE(ReadMe):
+    "Ucinehamouni/Astrophile/README.md"
+
+    def __init__(self):
+        self.username = "UCINE"
+        self.grade = "Learner"
+        self.contacts = {
+            "Email": "lucineucine@gmail.com",
+            "Discord": "Astrophile#1337"
+        }
+        self.aliases = [
+            "UCINE",
+        ]
+        self.occupation = "Student"
+        self.skills = [
+            "C",
+            "a little bit of python",
+        ]
+        self.hobbies = [
+            "science enthusiast"
+            "Playing Poker",
+            "Watching movies",
+            "Playing video games"
+            "Sometimes code"
+        ]
+
+```
+```css
+```
