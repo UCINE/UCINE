@@ -1,14 +1,14 @@
 ## About Me
-```js
-from GitHub import ReadMe
+ ```js
+ from GitHub import ReadMe
 
-class UCINE(ReadMe):
-    "Ucinehamouni/Astrophile/README.md"
+ class UCINE(ReadMe):
+   "Ucinehamouni/Astrophile/README.md"
 
-    def __init__(self):
-        self.username = "UCINE"
-        self.grade = "Learner"
-        self.contacts = {
+   def __init__(self):
+       self.username = "UCINE"
+       self.grade = "Learner"
+       self.contacts = {
             "Email": "lucineucine@gmail.com",
             "Discord": "Astrophile#1337"
         }
@@ -25,9 +25,7 @@ class UCINE(ReadMe):
             "Playing Poker",
             "Watching movies",
             "Playing video games"
-            "Sometimes code"
-        ]
+           "Sometimes code"
+       ]
 
-```
-```css
 ```
