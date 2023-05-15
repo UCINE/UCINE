@@ -21,11 +21,11 @@
             "a little bit of python",
         ]
         self.hobbies = [
-            "science enthusiast",
+            "Science enthusiast",
             "Playing Poker",
             "Watching movies",
             "Playing video games"
-           "Sometimes code"
+            "Sometimes code"
        ]
 
 ```
