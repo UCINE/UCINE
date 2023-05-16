@@ -18,14 +18,14 @@
         self.occupation = "Student"
         self.skills = [
             "C",
-            "a little bit of python",
+            "Python",
         ]
         self.hobbies = [
-            "Science enthusiast",
-            "Playing Poker",
-            "Watching movies",
-            "Playing video games"
-            "Sometimes code"
+             "Science enthusiast",
+             "Playing Poker",
+             "Watching movies",
+             "Playing video games"
+             "Sometimes code"
        ]
 
 ```
