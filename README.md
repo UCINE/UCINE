@@ -10,7 +10,7 @@
        self.grade = "Learner"
        self.contacts = {
             "Email": "lucineucine@gmail.com",
-            "Discord": "Astrophile#1337"
+            "Discord": "42Astrophile"
         }
         self.aliases = [
             "UCINE",
@@ -29,4 +29,4 @@
        ]
 
 ```
-[My Discord account](https://discord.com/users/907960091712553030)
+[My Discord account](https://discord.com/users/42astrophile)
