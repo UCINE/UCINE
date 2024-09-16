@@ -18,6 +18,7 @@
         self.occupation = "Student"
         self.skills = [
             "C",
+            "C++",
             "Python",
         ]
         self.hobbies = [
